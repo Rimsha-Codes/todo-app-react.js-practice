@@ -9,7 +9,8 @@ A simple Todo application built with React to practice components props and stat
 
 ## Technologies Used
 
-- React
+- React.js
 - JavaScript
 - CSS
 - Html
+- Bootstrap
